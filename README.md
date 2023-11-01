@@ -4,9 +4,9 @@
 
 _Completed in Oct, 2023_
 
-[See demo]()
+[See demo](https://polyvit.github.io/Travel-suggester/)
 
-Одностраничное приложение планирования путешествий. Подбирайте отели, рестораны и достопримечательности в одном месте прямо на карте. Также встроена функция просмотра погоды.
+Одностраничное приложение планирования путешествий. Подбирайте отели, рестораны и достопримечательности в одном месте прямо на карте. Также встроена функция просмотра погоды. При первой загрузке локация определяется из местонахождения пользователя. На панели управления можно ввести искомый город, выбрать категорию для отображения и отфильтровать по рейтингу.
 
 Используемые API: [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel), [Weather API](https://rapidapi.com/weatherapi/api/weatherapi-com), [Maps JavaScript Api](https://developers.google.com/maps/documentation/javascript/overview)
 
